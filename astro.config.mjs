@@ -15,28 +15,28 @@ export default defineConfig({
           autogenerate: { directory: 'introduction' },
         },
         {
-          label: 'Basic Music Theory',
-          autogenerate: { directory: 'basic-theory' },
+          label: 'Fundamentals',
+          autogenerate: { directory: 'fundamentals' },
         },
         // {
         //   label: 'Counterpoint',
         //   autogenerate: { directory: 'counterpoint' },
         // },
         {
-          label: 'Basic Harmony',
+          label: 'Four-Part Harmony',
           // autogenerate: { directory: 'harmony-1' },
           items: [
             {
-              label: '1. Introduction to Harmony',
-              autogenerate: { directory: 'basic-harmony/chapter-01' },
+              label: 'Introduction',
+              autogenerate: { directory: 'four-part-harmony/introduction' },
             },
             {
-              label: '2. Composing in Minor Keys',
-              autogenerate: { directory: 'basic-harmony/chapter-02' },
+              label: 'Writing in Minor',
+              autogenerate: { directory: 'four-part-harmony/minor' },
             },
             {
-              label: '3. Harmonizing a Melody',
-              autogenerate: { directory: 'basic-harmony/chapter-03' },
+              label: 'Tonality & Harmonization',
+              autogenerate: { directory: 'four-part-harmony/harmonizing-melodies' },
             },
           ],
         },
