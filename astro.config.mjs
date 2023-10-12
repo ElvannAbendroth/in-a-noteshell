@@ -14,10 +14,10 @@ export default defineConfig({
           label: 'Introduction',
           autogenerate: { directory: 'introduction' },
         },
-        {
-          label: 'Fundamentals',
-          autogenerate: { directory: 'fundamentals' },
-        },
+        // {
+        //   label: 'Fundamentals',
+        //   autogenerate: { directory: 'fundamentals' },
+        // },
         // {
         //   label: 'Counterpoint',
         //   autogenerate: { directory: 'counterpoint' },
@@ -27,16 +27,16 @@ export default defineConfig({
           // autogenerate: { directory: 'harmony-1' },
           items: [
             {
-              label: 'Introduction',
-              autogenerate: { directory: 'four-part-harmony/introduction' },
+              label: '1. Introduction',
+              autogenerate: { directory: 'four-part-harmony/chapter-01' },
             },
             {
-              label: 'Writing in Minor',
-              autogenerate: { directory: 'four-part-harmony/minor' },
+              label: '2. Writing in Minor',
+              autogenerate: { directory: 'four-part-harmony/chapter-02' },
             },
             {
-              label: 'Tonality & Harmonization',
-              autogenerate: { directory: 'four-part-harmony/harmonizing-melodies' },
+              label: '3. Tonality & Harmonization',
+              autogenerate: { directory: 'four-part-harmony/chapter-03' },
             },
           ],
         },
