@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/start-here/four-part-roadmap.md",
+                "file": "src/content/docs/four-part-harmony/learn/tonality.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/docs/start-here/four-part-roadmap.md",
+                "file": "src/content/docs/four-part-harmony/learn/tonality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/docs/start-here/four-part-roadmap.md",
+                "file": "src/content/docs/four-part-harmony/learn/tonality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/start-here/four-part-roadmap.md"
+                "file": "src/content/docs/four-part-harmony/learn/tonality.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "3b44e9cfe8da4f95",
   "lastOpenFiles": [
-    "src/content/docs/start-here/introduction.md",
     "src/content/docs/start-here/four-part-roadmap.md",
+    "src/content/docs/start-here/introduction.md",
     "src/content/docs/four-part-harmony/learn/motions.md",
     "src/content/docs/four-part-harmony/learn/tessitura.md",
     "src/content/docs/four-part-harmony/learn/tonality.md",

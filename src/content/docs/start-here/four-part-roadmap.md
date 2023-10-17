@@ -27,3 +27,15 @@ Here's a suggested roadmap of topics to learn Four-Part Harmony
 6. Roles of Voices
 
 ## Chapter 2: Minor Mode
+
+## Chapter 3: Organization of the Tonal System
+
+1. Tonality
+	1. "Main" vs "Secondary" Harmonic Functions
+	2. V-I Pairing
+	3. Cycle of Fifth
+	4. Possible Substitutions
+	5. Hierarchy of Progressions
+2. Cadenzas
+3. Harmonizing a Melody
+4. Harmonic Rhythms
