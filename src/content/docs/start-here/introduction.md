@@ -1,6 +1,6 @@
 ---
 title: 'Introduction'
-description: A guide in my new Starlight docs site.
+sidebar: {order: 000}
 ---
 
 Welcome to a music theory resource!

@@ -4,10 +4,7 @@ description: A guide in my new Starlight docs site.
 sidebar:
   order: 100
 ---
-
 Tonality is a **musical language** based on hierarchy and interested in the **functions** of each note of the scale, and centred around the tonic. There are 2 tonal scales: Major and minor.
-
-While tonality refers to the relationship between pitches, "key" refers to the first pitch of the scale a piece is played in.
 
 Just like English, tonality is a language. Scales correspond to letters of the alphabet and simply using letters in any given order isn't sufficient to call it "English". Tonality works the same way.
 
