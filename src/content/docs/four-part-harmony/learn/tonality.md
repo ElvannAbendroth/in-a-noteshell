@@ -5,16 +5,11 @@ sidebar:
   order: 100
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components'
-
-Tonality is a **musical language** based on hierarchy and interested in the **functions** of each note of the scale,
-and centered around the tonic. There are 2 tonal scales: Major and minor.
+Tonality is a **musical language** based on hierarchy and interested in the **functions** of each note of the scale, and centred around the tonic. There are 2 tonal scales: Major and minor.
 
 While tonality refers to the relationship between pitches, "key" refers to the first pitch of the scale a piece is played in.
 
-Just like English, tonality is a language. Scales correspond to letters of the alphabeth and simply using letters in any given order isn't sufficient to call it "English". Tonality works the same way.
-
-The goal of this chapter will be to provide a better understanding of the underlying patterns and structures of tonal music.
+Just like English, tonality is a language. Scales correspond to letters of the alphabet and simply using letters in any given order isn't sufficient to call it "English". Tonality works the same way.
 
 ## Key Takeaways
 

@@ -1,22 +1,18 @@
 ---
 title: 'Intervals'
 description: Interval types and quality in 4-part harmony.
-sidebar:
-  order: 100
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components'
-
-In 4-part harmony, we'll consider 2 aspects of intervals: their type (melodic or harmonic), and their quality (consonant or dissonant). They will require a different treamtement according to their type and quality.
+In 4-part harmony, we'll consider 2 aspects of intervals: their type (melodic or harmonic), and their quality (consonant or dissonant). They will require a different treatment according to their type and quality.
 
 ## Interval Types
 
 There are two types of intervals:
 
-1. **Melodic**: Intervals played consecutively (i.e a melody)
-2. **Harmonic**: Intervals played simulatenously (i.e. chords.)
+1. **Melodic**: Intervals played consecutively (i.e. a melody)
+2. **Harmonic**: Intervals played simultaneously (i.e. chords.)
 
-In 4-part harmony, just like in species counterpoint, melodic and hamronic intervals will be treated differently and follow a slightly different set or rules.
+In 4-part harmony, just like in species counterpoint, melodic and harmonic intervals will be treated differently and follow a slightly different set or rules.
 
 When treating melodic intervals, we'll be more interested in the melodic direction and making sure the line is easy to sing. On the other hand, when treating harmonic intervals, we'll be interested in tonal fusion, chords, and voice-leading.
 
@@ -33,7 +29,7 @@ In 4-part harmony, we'll be focusing more on harmony than in species counterpoin
 | **Perfect Consonances** | **Imperfect Consonances** |
 | ----------------------- | ------------------------- |
 | Perfect Octaves (P8)    | Major Thirds (M3)         |
-| Perfect Unissons (P1)   | Minor Thirds (m3)         |
+| Perfect Unisons (P1)   | Minor Thirds (m3)         |
 | Perfect Fourths (P4)    | Major Sixths (M6)         |
 | Perfect Fifths (P5)     | Minor Sixths (m6)         |
 

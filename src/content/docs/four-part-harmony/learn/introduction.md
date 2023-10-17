@@ -1,13 +1,11 @@
 ---
-title: 'Introduction'
+title: ⭐ Introduction
 description: The relative distance between 2 notes.
 sidebar:
   order: 000
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components'
-
-Four-part harmony is a strict composition style that teaches the principles of harmony and voice-leading, and teaches the students how to harmonize melodies and make beautiful harmonies and lines in a western XIXth centry compositional style.
+Four-part harmony is a strict composition style that teaches the principles of harmony and voice-leading, and teaches the students how to harmonize melodies and make beautiful harmonies and lines in a western XIXth century compositional style.
 
 The study of 4-part harmony is rigid, but will help the students drill down their skills in composition and harmony, as well as give them the fundamental skills to bridge the technical aspects of compositions and creativity.
 

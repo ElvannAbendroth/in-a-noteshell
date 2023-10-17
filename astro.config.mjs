@@ -27,17 +27,17 @@ export default defineConfig({
           // autogenerate: { directory: 'harmony-1' },
           items: [
             {
-              label: '1. Introduction',
-              autogenerate: { directory: 'four-part-harmony/chapter-01' },
+              label: 'Learn',
+              autogenerate: { directory: 'four-part-harmony/learn' },
             },
-            {
-              label: '2. Writing in Minor',
-              autogenerate: { directory: 'four-part-harmony/chapter-02' },
-            },
-            {
-              label: '3. Tonality & Harmonization',
-              autogenerate: { directory: 'four-part-harmony/chapter-03' },
-            },
+            // {
+            //   label: '2. Writing in Minor',
+            //   autogenerate: { directory: 'four-part-harmony/chapter-02' },
+            // },
+            // {
+            //   label: '3. Tonality & Harmonization',
+            //   autogenerate: { directory: 'four-part-harmony/chapter-03' },
+            // },
           ],
         },
 

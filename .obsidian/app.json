@@ -1,0 +1,7 @@
+{
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "src/assets",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
+}
