@@ -6,7 +6,7 @@ title: 'Cycle of Fifths'
 - This V-I relationship can be extrapolated to other chord relationships.
 	- i.e. I-IV, and so on.
 
-![](../../../../assets/Pasted%20image%2020231023102132.png)
+![](../../../../assets/authentic-vs-plagal.png)
 
 The cycle of fifths can move in 2 directions:
 
@@ -25,7 +25,7 @@ Principles for building a harmonic scheme that's tonal and coherent:
 2. All degrees can move to **V**
 3. You can always move in the authentic direction (clock-wise)
 
-![](../../../../assets/Pasted%20image%2020231023103059.png)
+![](../../../../assets/i-to-all-all-to-v.png)
 
 ## Substitutions
 
@@ -34,7 +34,7 @@ Some chords in tonal music can be substituted because they share similar "tonal 
 - I can be replaced by III, VI, or IV6
 - II can be replaced by IV
 
-![](../../../../assets/Pasted%20image%2020231023104038.png)
+![](../../../../assets/substituations.png)
 
 ## Hierarchy of Progressions
 

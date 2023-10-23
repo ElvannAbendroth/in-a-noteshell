@@ -26,7 +26,7 @@ When writing homework, you'll want to identify them.
 - Needs to be cadential resting point
 - lead-tone to tonic resolution at the **soprano**
 	- It's not absolutely essential, but it sounds more final.
-![](../../../../assets/Pasted%20image%2020231023111907.png)
+![](../../../../assets/perfect-cadenza.png)
 
 ### Imperfect Authentic (IC)
 
@@ -34,7 +34,7 @@ When writing homework, you'll want to identify them.
 	- V6-I
 	- V-I6
 
-![](../../../../assets/Pasted%20image%2020231023111921.png)
+![](../../../../assets/imperfect-cadenza.png)
 
 ## Plagal Cadenza
 
@@ -42,4 +42,4 @@ When writing homework, you'll want to identify them.
 - Is more rare in tonal music but happens
 - Usually found at the end of a piece, and following a **Perfect Authentic Cadenza**
 
-![](../../../../assets/Pasted%20image%2020231023112237.png)
+![](../../../../assets/plagal-cadenza.png)
