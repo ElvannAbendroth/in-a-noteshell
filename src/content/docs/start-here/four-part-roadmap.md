@@ -27,12 +27,8 @@ Here's a suggested roadmap of topics to learn Four-Part Harmony
 
 ## Chapter 3: Organization of the Tonal System
 
-1. Tonality
-   1. "Main" vs "Secondary" Harmonic Functions
-   2. V-I Pairing
-   3. Cycle of Fifth
-   4. Possible Substitutions
-   5. Hierarchy of Progressions
-2. Cadenzas
-3. Harmonizing a Melody
-4. Harmonic Rhythms
+1. [Tonality](/four-part-harmony/learn/tonality)
+2. [Cycle of Fifths](/four-part-harmony/learn/cycle-of-fifths)
+3. [Cadenzas](/four-part-harmony/learn/cadenzas)
+4. Harmonizing a Melody
+5. Harmonic Rhythms
