@@ -10,16 +10,55 @@
           {
             "id": "3b44e9cfe8da4f95",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/four-part-harmony/learn/intervals.md",
+                "file": "src/content/docs/four-part-harmony/learn/cycle-of-fifths.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a95ed33db865abb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/four-part-harmony/learn/tonality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acbeba118b19d00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/four-part-harmony/learn/tonality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb435100240f9b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/four-part-harmony/learn/cadenzas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/docs/four-part-harmony/learn/intervals.md",
+                "file": "src/content/docs/four-part-harmony/learn/cadenzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/docs/four-part-harmony/learn/intervals.md",
+                "file": "src/content/docs/four-part-harmony/learn/cadenzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/four-part-harmony/learn/intervals.md"
+                "file": "src/content/docs/four-part-harmony/learn/cadenzas.md"
               }
             }
           },
@@ -157,10 +196,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b44e9cfe8da4f95",
+  "active": "cb435100240f9b50",
   "lastOpenFiles": [
+    "src/assets/Pasted image 20231023112237.png",
+    "src/assets/Pasted image 20231023111921.png",
+    "src/assets/Pasted image 20231023111907.png",
+    "src/content/docs/four-part-harmony/learn/cycle-of-fifths.md",
     "src/content/docs/four-part-harmony/learn/introduction.md",
+    "src/content/docs/four-part-harmony/learn/cadenzas.md",
     "src/content/docs/four-part-harmony/learn/tonality.md",
+    "src/assets/Pasted image 20231023104038.png",
+    "src/assets/Pasted image 20231023103059.png",
+    "src/assets/Pasted image 20231023102132.png",
+    "src/content/docs/four-part-harmony/learn/intervals.md",
     "src/content/docs/start-here/four-part-roadmap.md",
     "src/content/docs/start-here/introduction.md",
     "src/content/docs/four-part-harmony/learn/motions.md",
@@ -168,7 +216,6 @@
     "src/assets/tessiture-des-quatre-voix-de-choeur.png",
     "src/content/docs/four-part-harmony/learn/minor-scales.md",
     "src/content/docs/four-part-harmony/learn/major-scale.md",
-    "src/content/docs/four-part-harmony/learn/intervals.md",
     "src/templates/entry.md",
     "src/content/docs/four-part-harmony/chapter-01/triads.md",
     "src/templates",

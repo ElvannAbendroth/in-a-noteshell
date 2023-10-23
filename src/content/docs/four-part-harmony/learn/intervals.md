@@ -33,7 +33,7 @@ In 4-part harmony, we'll be focusing more on harmony than in species counterpoin
 | Perfect Fourths (P4)    | Major Sixths (M6)         |
 | Perfect Fifths (P5)     | Minor Sixths (m6)         |
 
-The perfect fourth is generally considered like a consonance, except when forming an interval with the bass line, uin which case it will be considered dissonant. (see more with second inversions)
+The perfect fourth is generally considered like a consonance, except when forming an interval with the bass line, in which case it will be considered dissonant. (see more with second inversions)
 
 ### Dissonances
 
