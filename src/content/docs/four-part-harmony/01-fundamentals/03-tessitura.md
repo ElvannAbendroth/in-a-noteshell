@@ -18,6 +18,6 @@ Here's a reference guide for the minimum and maximum vocal range for each voice:
 
 ## Staves & Stems
 
-Four-part harmony exercises should be written on the grand staff, where the Soprano and Alto are written on the **Treble Clef,** while the Tenor and Bass are on the** Bass Clef**.
+Four-part harmony exercises should be written on the **grand staff,** where the Soprano and Alto are written on the **Treble Clef,** while the Tenor and Bass are on the **Bass Clef**.
 
 When needed, the Soprano and Tenor's stems will be pointing up, while the Alto and Bass should be pointing down.

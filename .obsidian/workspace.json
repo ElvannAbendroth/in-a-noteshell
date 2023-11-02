@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md",
+                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md",
+                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md",
+                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md"
+                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "c3512c631d358d4e",
   "lastOpenFiles": [
-    "src/content/docs/start-here/four-part-roadmap.md",
-    "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md",
-    "src/content/docs/four-part-harmony/03-harmonization/04-melody-harmonization.md",
     "src/content/docs/four-part-harmony/03-harmonization/03-cadenzas.md",
+    "src/content/docs/four-part-harmony/03-harmonization/04-melody-harmonization.md",
+    "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md",
+    "src/content/docs/start-here/four-part-roadmap.md",
     "src/content/docs/four-part-harmony/03-harmonization/02-cycle-of-fifths.md",
     "src/content/docs/four-part-harmony/03-harmonization/01-tonality.md",
     "src/content/docs/four-part-harmony/01-fundamentals/05-motions.md",
