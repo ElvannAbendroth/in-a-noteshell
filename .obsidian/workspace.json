@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
+                "file": "src/content/docs/four-part-harmony/03-harmonization/03-cadenzas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
+                "file": "src/content/docs/four-part-harmony/03-harmonization/03-cadenzas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
+                "file": "src/content/docs/four-part-harmony/03-harmonization/03-cadenzas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md"
+                "file": "src/content/docs/four-part-harmony/03-harmonization/03-cadenzas.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "c3512c631d358d4e",
   "lastOpenFiles": [
+    "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
     "src/content/docs/four-part-harmony/03-harmonization/03-cadenzas.md",
     "src/content/docs/four-part-harmony/03-harmonization/04-melody-harmonization.md",
     "src/content/docs/four-part-harmony/01-fundamentals/00-introduction.md",
@@ -167,7 +168,6 @@
     "src/content/docs/four-part-harmony/03-harmonization/01-tonality.md",
     "src/content/docs/four-part-harmony/01-fundamentals/05-motions.md",
     "src/content/docs/four-part-harmony/01-fundamentals/04-voice-disposition.md",
-    "src/content/docs/four-part-harmony/01-fundamentals/03-tessitura.md",
     "src/content/docs/four-part-harmony/01-fundamentals/02-major-scale.md",
     "src/content/docs/four-part-harmony/01-fundamentals/01-intervals.md",
     "src/content/docs/four-part-harmony/03-harmonization",

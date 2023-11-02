@@ -38,7 +38,7 @@ When writing homework, you'll want to identify them.
 
 ![](../../../../assets/imperfect-cadenza.png)
 
-## Plagal Cadenza (PL)
+### Plagal Cadenza (PL)
 
 - IV-I
 - Is more rare in tonal music but happens
@@ -46,7 +46,7 @@ When writing homework, you'll want to identify them.
 
 ![](../../../../assets/plagal-cadenza.png)
 
-## Demi-Cadenza (DC)
+### Demi-Cadenza (DC)
 
 - Suspensive cadenza
 	- X-V
@@ -67,7 +67,7 @@ Even if V is followed by I, it CAN be a demi-cadenza, it depends on the phrasing
 
 ![](../../../../assets/demi-cadenza.png)
 
-## Broken Cadenza (BC)
+### Broken Cadenza (BC)
 
 - Probably my favourite:)
 - Looks like AC (V-I), but instead of resolving on I as expected, we substitute it for VI, IV, or III
