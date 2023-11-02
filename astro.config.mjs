@@ -30,6 +30,18 @@ export default defineConfig({
               label: 'Learn',
               autogenerate: { directory: 'four-part-harmony/learn' },
             },
+            {
+              label: 'Chapter 1: Fundamentals',
+              autogenerate: { directory: 'four-part-harmony/01-fundamentals' },
+            },
+            {
+              label: 'Chapter 2: Minor Keys',
+              autogenerate: { directory: 'four-part-harmony/02-fundamentals' },
+            },
+            {
+              label: 'Chapter 3: Harmonization',
+              autogenerate: { directory: 'four-part-harmony/03-harmonization' },
+            },
             // {
             //   label: '2. Writing in Minor',
             //   autogenerate: { directory: 'four-part-harmony/chapter-02' },

@@ -1,5 +1,5 @@
 ---
-title: Types of Motions
+title: 1.5 Types of Motions
 ---
 
 ## Harmonic Motions

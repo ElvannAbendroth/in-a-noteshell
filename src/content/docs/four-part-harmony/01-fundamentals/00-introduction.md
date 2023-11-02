@@ -1,8 +1,8 @@
 ---
-title: ⭐ Introduction
+title: 1.0 Introduction
 description: The relative distance between 2 notes.
 sidebar:
-  order: 000
+  order: 0
 ---
 
 Four-part harmony is a strict composition style that teaches the principles of harmony and voice-leading, and teaches the students how to harmonize melodies and make beautiful harmonies and lines in a western XIXth century compositional style.
@@ -22,6 +22,37 @@ Before proceeding with the study of 4-part harmony, it is important to have a so
 - 4-notes chords (Dominant)
 
 Here are some resources to help you learn the basics of music theory:
+
+## Course Roadmap
+
+Here's a suggested roadmap of topics to learn Four-Part Harmony
+
+### Chapter 1: Introduction to Tonal Harmony
+
+1. [Introduction](/four-part-harmony/01-fundamentals/introduction/)
+2. [Intervals](/four-part-harmony/01-fundamentals/intervals)
+3. [Major Scale](/four-part-harmony/01-fundamentals/major-scale/)
+4. [Tessitura](/four-part-harmony/01-fundamentals/tessitura/)
+5. Voice Dispositions & Spacing
+6. [Types of Motions](/four-part-harmony/01-fundamentals/major-scale/)
+7. Overlaps & Crossovers
+8. Intervals (part 2)
+9. Triads
+   1. Numbering
+   2. Doublings
+   3. Voice leading
+   4. False Triton Relationship
+10. Roles of Voices
+
+### Chapter 2: Minor Mode
+
+### Chapter 3: Organization of the Tonal System
+
+1. [Tonality](/four-part-harmony/learn/tonality)
+2. [Cycle of Fifths](/four-part-harmony/learn/cycle-of-fifths)
+3. [Cadenzas](/four-part-harmony/learn/cadenzas)
+4. Harmonizing a Melody
+5. Harmonic Rhythms
 
 ## Other Resources
 

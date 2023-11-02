@@ -1,5 +1,5 @@
 ---
-title: 'Cycle of Fifths'
+title: 3.2 Cycle of Fifths
 ---
 
 - Like we've seen, the V-I couple is the base of the tonal system.

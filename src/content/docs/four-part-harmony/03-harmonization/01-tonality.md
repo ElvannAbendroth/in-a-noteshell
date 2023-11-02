@@ -1,8 +1,9 @@
 ---
-title: 'Tonality'
+title: 3.1 Tonality
 sidebar:
   order: 100
 ---
+
 Tonality is the most widely studied **musical language** in the Western world, and had been predominantly used by composers from Bach to Wagner, and well after.
 
 This system of pitch and chord arrangements is based on hierarchy and perceived relations between them.  In tonality, we're interested in the **functions** of each note of the scale, where the tonic triad is the most stable. There are 2 tonal scales: Major and minor.

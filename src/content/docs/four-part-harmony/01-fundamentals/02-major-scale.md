@@ -1,6 +1,6 @@
 ---
-title: "Major Scale"
-description: "Functional"
+title: 1.2 Major Scale
+description: Functional
 ---
 
 In 4-part harmony, we're interested in **functions** rather than in the **notes** of the scales.  This means we're interested not only in the note themselves, but in the chords they form together.

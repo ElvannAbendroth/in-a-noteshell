@@ -1,5 +1,5 @@
 ---
-title: 'Intervals'
+title: 1.1 Intervals
 description: Interval types and quality in 4-part harmony.
 ---
 

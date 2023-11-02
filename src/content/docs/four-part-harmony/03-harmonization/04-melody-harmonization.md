@@ -1,5 +1,5 @@
 ---
-title: Melody Harmonization
+title: 3.4 Melody Harmonization
 ---
 
 So far in our studies we've seen how to harmonize from a given bass line when all the chords are in root position, so we haven't been given any choice for chords.
