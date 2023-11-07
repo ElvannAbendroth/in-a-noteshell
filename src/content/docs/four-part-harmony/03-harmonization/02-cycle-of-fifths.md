@@ -38,6 +38,8 @@ Some chords in tonal music can be substituted because they share similar "tonal 
 
 ## Hierarchy of Progressions
 
+This is a summary of the system that Schönberg came up with, that is based on intervals.
+
 | Strong                       | Weak     |
 | ---------------------------- | -------- |
 | Asc. 4rth                    | Asc. 3rd |
