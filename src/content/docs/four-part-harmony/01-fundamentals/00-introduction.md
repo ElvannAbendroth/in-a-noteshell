@@ -29,12 +29,12 @@ Here's a suggested roadmap of topics to learn Four-Part Harmony
 
 ### Chapter 1: Introduction to Tonal Harmony
 
-1. [Introduction](/four-part-harmony/01-fundamentals/introduction/)
-2. [Intervals](/four-part-harmony/01-fundamentals/intervals)
-3. [Major Scale](/four-part-harmony/01-fundamentals/major-scale/)
-4. [Tessitura](/four-part-harmony/01-fundamentals/tessitura/)
+1. [Introduction](/four-part-harmony/01-fundamentals/00-introduction/)
+2. [Intervals](/four-part-harmony/01-fundamentals/01-intervals)
+3. [Major Scale](/four-part-harmony/01-fundamentals/02-major-scale/)
+4. [Tessitura](/four-part-harmony/01-fundamentals/03-tessitura/)
 5. Voice Dispositions & Spacing
-6. [Types of Motions](/four-part-harmony/01-fundamentals/major-scale/)
+6. [Types of Motions](/four-part-harmony/01-fundamentals/04-major-scale/)
 7. Overlaps & Crossovers
 8. Intervals (part 2)
 9. Triads
@@ -48,16 +48,18 @@ Here's a suggested roadmap of topics to learn Four-Part Harmony
 
 ### Chapter 3: Organization of the Tonal System
 
-1. [Tonality](/four-part-harmony/learn/tonality)
-2. [Cycle of Fifths](/four-part-harmony/learn/cycle-of-fifths)
-3. [Cadenzas](/four-part-harmony/learn/cadenzas)
-4. Harmonizing a Melody
+1. [Tonality](/four-part-harmony/03-harmonization/01-tonality/)
+2. [Cycle of Fifths](/four-part-harmony/03-harmonization/02-cycle-of-fifths/)
+3. [Cadenzas](/four-part-harmony/03-harmonization/03-cadenzas/)
+4. [Melody Harmonization](/four-part-harmony/03-harmonization/04-melody-harmonization/)
 5. Harmonic Rhythms
 
 ## Other Resources
 
-- Fundamentals of Music Theory: https://www.musictheory.net/
-- Open Music Theory: https://openmusictheory.github.io/
-- Element Rudiments of Music by Barbara Wharram (book)
-- Harmony & Voice Leading (Adwell)
-- Harmonie I & Harmonie II by Philippe Béland (Autumn 2022, University of Montreal)
+- Harmonie I & II by Philippe Béland, University of Montreal, 2012
+- [L'oeil qui entend, l'oreille qui voit](https://bw.musique.umontreal.ca/), a theoretical model and tools for analyzing the tonal harmonic discourse from Bach to Wagner, by Luce Beaudet, University proffessor at the University of Montreal.
+- [Voice Leading & Harmony](https://www.amazon.com/Harmony-Voice-Leading-Edward-Aldwell/dp/0495189758) by Edward Aldwell (Author), Carl Schachter (Author), Allen Cadwallader (Author)
+- [Open Music Theory](https://openmusictheory.github.io/), an open source online music theory textbook y Kris Shaffer, Bryn Hughes, and Brian Moseley
+- [Integrated Musicianship](https://intmus.github.io/), an open source interactive online textbook for college level music courses (theory and aural skills) by Sean Butterfield and Miranda Wilson
+- [MusicTheory.net](https://www.musictheory.net/), a resource with interactive exercises and tools to learn basic music theory.
+- [Elementary Rudiments of Music](https://www.amazon.com/Elementary-Rudiments-Music-Barbara-Wharram/dp/0887970044), an exercise book for learning basic music theory by Barbara Wharram (book)

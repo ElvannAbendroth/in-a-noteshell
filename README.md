@@ -9,4 +9,6 @@ In a Noteshell is a documentation-style website for learning advanced music theo
 - [Voice Leading & Harmony](https://www.amazon.com/Harmony-Voice-Leading-Edward-Aldwell/dp/0495189758) by Edward Aldwell (Author), Carl Schachter (Author), Allen Cadwallader (Author)
 - [Open Music Theory](https://openmusictheory.github.io/), an open source online music theory textbook y Kris Shaffer, Bryn Hughes, and Brian Moseley
 - [Integrated Musicianship](https://intmus.github.io/), an open source interactive online textbook for college level music courses (theory and aural skills) by Sean Butterfield and Miranda Wilson
+- [MusicTheory.net](https://www.musictheory.net/), a resource with interactive exercises and tools to learn basic music theory.
+- [Elementary Rudiments of Music](https://www.amazon.com/Elementary-Rudiments-Music-Barbara-Wharram/dp/0887970044), an exercise book for learning basic music theory by Barbara Wharram (book)
 
