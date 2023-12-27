@@ -1,53 +1,12 @@
-# Starlight Starter Kit: Basics
+# In a Noteshell
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+In a Noteshell is a documentation-style website for learning advanced music theory made with Astro & the Starlight Template.  This is mainly a personal project that I've put together to more easily share resources and lesson notes across my music students on advanced topics that might be difficult to access otherwise.
 
-```
-npm create astro@latest -- --template starlight
-```
+## Bibliography & Resources
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
+- Harmonie I & II by Philippe Béland, University of Montreal, 2012
+- [L'oeil qui entend, lö'oreille qui voit](https://bw.musique.umontreal.ca/),  theoretical model anbd tools for analysing the tonal harmonic discourse from Bach to Wagner, by Luce Beaudet, University proffessor at the University of Montreal.
+- [Voice Leading & Harmony](https://www.amazon.com/Harmony-Voice-Leading-Edward-Aldwell/dp/0495189758) by Edward Aldwell (Author), Carl Schachter (Author), Allen Cadwallader (Author)
+- [Open Music Theory](https://openmusictheory.github.io/), an open source online music theory textbook y Kris Shaffer, Bryn Hughes, and Brian Moseley
+- [Integrated Musicianship](https://intmus.github.io/), an open source interactive online textbook for college level music courses (theory and aural skills) by Sean Butterfield and Miranda Wilson
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
