@@ -52,7 +52,7 @@ export default defineConfig({
             // },
           ],
         },
-
+        { label: 'Others', autogenerate: { directory: 'others' } },
         // {
         //   label: 'Advanced Harmony',
         //   autogenerate: { directory: 'harmony-2' },
