@@ -16,10 +16,8 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Start Here!',
-          autogenerate: {
-            directory: 'start-here',
-          },
+          label: 'Welcome',
+          link: 'welcome',
         },
         {
           label: 'Four-Part Harmony',
