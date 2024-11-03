@@ -26,6 +26,8 @@ Here are some resources to help you learn the basics of music theory:
 
 ### Course Roadmap
 
+> ⭐This section has not yet been written!  Check back later!
+
 ### Resources
 
 - Harmonie I & II by Philippe Béland, University of Montreal, 2012
