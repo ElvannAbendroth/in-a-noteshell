@@ -2,6 +2,10 @@
 title: 'Chapter 1: Fundamentals'
 sidebar:
     order: 01
+prev: false
+hero: 
+    title: The Fundamentals of Harmony
+    tagline: Take your stuff to the moon and back in the blink of an eye.
 ---
 
 ## Introduction

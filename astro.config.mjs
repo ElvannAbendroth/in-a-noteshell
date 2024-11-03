@@ -6,6 +6,10 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'In a Noteshell',
+      customCss: [
+        // Relative path to your custom CSS file
+        './src/styles/global.css',
+      ],
       social: {
         github: 'https://github.com/withastro/starlight',
       },
