@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
+import tailwind from '@astrojs/tailwind'
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,16 +20,26 @@ export default defineConfig({
       sidebar: [
         {
           label: 'Start Here!',
-
-          autogenerate: { directory: 'start-here' },
+          autogenerate: {
+            directory: 'start-here',
+          },
         },
         {
           label: 'Four-Part Harmony',
-          autogenerate: { directory: 'four-part-harmony' },
+          autogenerate: {
+            directory: 'four-part-harmony',
+          },
         },
-
-        { label: 'Other Resources', autogenerate: { directory: 'others' } },
+        {
+          label: 'Other Resources',
+          autogenerate: {
+            directory: 'others',
+          },
+        },
       ],
+    }),
+    tailwind({
+      applyBaseStyles: false,
     }),
   ],
 })

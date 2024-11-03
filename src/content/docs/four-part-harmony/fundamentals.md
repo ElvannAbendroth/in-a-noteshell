@@ -2,45 +2,9 @@
 title: 'Chapter 1: Fundamentals'
 sidebar:
     order: 01
-prev: false
-hero: 
-    title: The Fundamentals of Harmony
-    tagline: Take your stuff to the moon and back in the blink of an eye.
+
 ---
 
-## Introduction
-
-Four-part harmony is a strict composition style that teaches the principles of harmony and voice-leading, and teaches the students how to harmonize melodies and make beautiful harmonies and lines in a western XIXth century compositional style.
-
-The study of 4-part harmony is rigid, but will help the students drill down their skills in composition and harmony, as well as give them the fundamental skills to bridge the technical aspects of compositions and creativity.
-
-### Pre-requisites
-
-In this section, we'll learn about the fundamentals of 4-part harmony. In order to provide a full understanding of the musical context we'll be operating within, a big part of this section will be dedicated to reviewing some of the fundamentals of music theory, but within the context of 4-part harmony.
-
-Before proceeding with the study of 4-part harmony, it is important to have a solid understanding of music theory fundamentals such as:
-
-- Music notation
-- Intervals
-- Major & minor scales
-- Triads (3-notes chords)
-- 4-notes chords (Dominant)
-
-Here are some resources to help you learn the basics of music theory:
-
-### Course Roadmap
-
-> ⭐This section has not yet been written!  Check back later!
-
-### Resources
-
-- Harmonie I & II by Philippe Béland, University of Montreal, 2012
-- [L'oeil qui entend, l'oreille qui voit](https://bw.musique.umontreal.ca/), a theoretical model and tools for analyzing the tonal harmonic discourse from Bach to Wagner, by Luce Beaudet, University proffessor at the University of Montreal.
-- [Voice Leading & Harmony](https://www.amazon.com/Harmony-Voice-Leading-Edward-Aldwell/dp/0495189758) by Edward Aldwell (Author), Carl Schachter (Author), Allen Cadwallader (Author)
-- [Open Music Theory](https://openmusictheory.github.io/), an open source online music theory textbook y Kris Shaffer, Bryn Hughes, and Brian Moseley
-- [Integrated Musicianship](https://intmus.github.io/), an open source interactive online textbook for college level music courses (theory and aural skills) by Sean Butterfield and Miranda Wilson
-- [MusicTheory.net](https://www.musictheory.net/), a resource with interactive exercises and tools to learn basic music theory.
-- [Elementary Rudiments of Music](https://www.amazon.com/Elementary-Rudiments-Music-Barbara-Wharram/dp/0887970044), an exercise book for learning basic music theory by Barbara Wharram (book)
 
 ## Intervals
 
