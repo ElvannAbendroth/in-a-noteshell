@@ -20,6 +20,12 @@ export default defineConfig({
           link: 'welcome',
         },
         {
+          label: 'Music Theory',
+          autogenerate: {
+            directory: 'music-theory',
+          },
+        },
+        {
           label: 'Four-Part Harmony',
           autogenerate: {
             directory: 'four-part-harmony',
